@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewControllerA.h
 //  DemoTabBar
 //
 //  Created by Rajesh's MacBook Pro  on 1/6/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewControllerA : UIViewController
 
 @end
-
